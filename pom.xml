@@ -55,6 +55,25 @@
 					</execution>
 				</executions>
 			</plugin>
+			<plugin>
+			  <groupId>org.wildfly.plugins</groupId>
+			  <artifactId>wildfly-maven-plugin</artifactId>
+			  <version>1.1.0.Alpha10</version>
+			  <executions>
+			    <execution>
+			      <phase>install</phase>
+			      <goals>
+				<goal>redeploy</goal>
+			      </goals>
+			    </execution>
+			  </executions>
+			  <configuration>
+			    <force>true</force>
+			    <hostname>localhost</hostname>
+			    <port>8080</port>
+			    <filename>sparkjava-hello-world-1.0.war</filename>
+			  </configuration>
+			</plugin>
 		</plugins>
 	</build>
 </project>
