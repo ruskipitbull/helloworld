@@ -69,7 +69,7 @@
 			  </executions>
 			  <configuration>
 			    <force>true</force>
-			    <hostname>localhost</hostname>
+			    <hostname>96.127.125.214</hostname>
 			    <port>8081</port>
 			    <filename>sparkjava-hello-world-1.0.war</filename>
 			  </configuration>
