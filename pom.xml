@@ -70,6 +70,8 @@
 			  <configuration>
 			    <force>true</force>
 			    <hostname>172.31.43.51</hostname>
+			    <username>admin</username>
+			    <password>admin</password>
 			    <port>8081</port>
 			    <filename>sparkjava-hello-world-1.0.war</filename>
 			  </configuration>
