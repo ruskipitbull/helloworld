@@ -70,7 +70,7 @@
 			  <configuration>
 			    <force>true</force>
 			    <hostname>localhost</hostname>
-			    <port>8080</port>
+			    <port>8081</port>
 			    <filename>sparkjava-hello-world-1.0.war</filename>
 			  </configuration>
 			</plugin>
