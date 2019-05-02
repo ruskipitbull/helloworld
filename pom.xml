@@ -72,7 +72,7 @@
 			    <hostname>172.31.43.51</hostname>
 			    <username>admin1</username>
 			    <password>Password123</password>
-			    <port>8081</port>
+			    <port>9990</port>
 			    <filename>sparkjava-hello-world-1.0.war</filename>
 			  </configuration>
 			</plugin>
