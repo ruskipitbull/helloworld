@@ -73,7 +73,6 @@
 			    <username>admin1</username>
 			    <password>Password123</password>
 			    <port>9990</port>
-			    <filename>sparkjava-hello-world</filename>
 			  </configuration>
 			</plugin>
 		</plugins>
