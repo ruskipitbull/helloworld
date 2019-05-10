@@ -70,6 +70,8 @@
 			  <configuration>
 			    <force>true</force>
 			    <hostname>172.19.0.1</hostname>
+			    <username>admin123</username>
+		            <password>password123</password>
 			    <port>9990</port>
 			  </configuration>
 			</plugin>
