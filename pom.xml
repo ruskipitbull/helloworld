@@ -69,7 +69,7 @@
 			  </executions>
 			  <configuration>
 			    <force>true</force>
-			    <hostname>${maven.home}</hostname>
+			    <hostname>${hostname}</hostname>
 			    <username>admin1</username>
 			    <password>Password123</password>
 			    <port>9990</port>
