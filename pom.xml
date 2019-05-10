@@ -68,10 +68,10 @@
 			    </execution>
 			  </executions>
 			  <configuration>
- 			       <hostname>${settings.wildfly-hostname}</hostname>
-  			      <port>${settings.wildfly-port}</port>
- 			       <username>${settings.wildfly-username}</username>
-			        <password>${settings.wildfly-password}</password>
+ 			       <hostname>${wildfly-hostname}</hostname>
+  			      <port>${wildfly-port}</port>
+ 			       <username>${wildfly-username}</username>
+			        <password>${wildfly-password}</password>
 			  </configuration>
 			</plugin>
 		</plugins>
