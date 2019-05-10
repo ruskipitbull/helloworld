@@ -68,7 +68,6 @@
 			    </execution>
 			  </executions>
 			  <configuration>
-			 
 			    <hostname>${serge.prop.1}</hostname>
 			    <username>admin123</username>
 		            <password>password123</password>
