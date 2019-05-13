@@ -10,10 +10,10 @@
 	<packaging>war</packaging>
 	
 	<distributionManagement>
-	   <snapshotRepository>
+	   <repository>
 	      <id>nexus-ec2-repo</id>
 	      <url>${nexus-url}</url>
-	   </snapshotRepository>
+	   </repository>
 	</distributionManagement>
 
 	<dependencies>
