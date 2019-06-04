@@ -102,8 +102,8 @@
 			      </execution>
 			   </executions>
 			   <configuration>
-			      <serverId>nexus</serverId>
-			      <nexusUrl>http://localhost:8090/nexus/</nexusUrl>
+			      <serverId>nexus-ec2-repo</serverId>
+			      <nexusUrl>${nexus-url}</nexusUrl>
 			      <skipStaging>true</skipStaging>
 			   </configuration>
 			</plugin>
